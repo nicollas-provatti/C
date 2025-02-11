@@ -201,5 +201,3 @@ printf("%s\n", (idade >= 18) ? "Maior de idade" : "Menor de idade");
 ```
 
 ---
-
-Esse material fornece uma base sólida para iniciantes em C. Você pode expandi-lo conforme necessário para suas aulas!
