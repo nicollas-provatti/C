@@ -1,0 +1,12 @@
+2237 - Hello World (Exemplo)
+2957 - Soma de Inteiros (Exemplo)
+16 - Bingo
+435 - Analisando Processos
+273 - Média 1
+3569 - 3o ângulo do triângulo
+3891 - 3 tipos de média
+3231 - [AC3.2] - Divisibilidade
+4549 - Administradora de cartão
+4120 - Ajuda Vendedores
+1086 - Aluguel de carro
+17 - Antecessor e Sucessor
