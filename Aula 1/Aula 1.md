@@ -107,6 +107,14 @@ printf("Digite sua idade: ");
 scanf("%d", &idade);
 printf("Você tem %d anos\n", idade);
 ```
+| Códigos de Formatação | Significado       |
+|-----------------------|-------------------|
+|   `%c`                | Caractere simples |
+|   `%d`                | Inteiro           |
+|   `%f`                | Ponto flutuante   | 
+|  `%lf`                | Ponto flutuante   | 
+|   `%s`                | String            | 
+|   `%p`                | Ponteiros         | 
 
 ---
 
