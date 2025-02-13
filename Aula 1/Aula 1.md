@@ -165,7 +165,7 @@ if (x == y) {
 | Operador | Descrição |
 |----------|-------------|
 | `&&`     | E lógico (AND) |
-| `||`     | OU lógico (OR) |
+| ` || `     | OU lógico (OR) |
 | `!`      | NÃO lógico (NOT) |
 
 Exemplo:
