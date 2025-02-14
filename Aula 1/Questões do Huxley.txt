@@ -1,0 +1,10 @@
+16 - Bingo
+17 - Antecessor e Sucessor
+273 - Média 1
+435 - Analisando Processos
+1086 - Aluguel de carro
+3231 - [AC3.2] - Divisibilidade
+3569 - 3o ângulo do triângulo
+3891 - 3 tipos de média
+4120 - Ajuda Vendedores
+4549 - Administradora de cartão
