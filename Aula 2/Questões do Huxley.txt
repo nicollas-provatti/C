@@ -1,0 +1,17 @@
+Decisão
+42 - Eleitor
+374 - Bônus de Viagem
+841 - Acima da média
+1062 - Acidez de uma solução
+3278 - Classificando notas
+
+Repetição
+1087 - 100 primeiros números naturais
+2798 - Divisores I
+4279 - 10 primeiros multiplos
+1088 - Leia vários números.
+3764 - Acidez de várias soluções
+1117 - Carros de João e Maria
+902 - Base e expoente.
+467 - Elevador seguro
+2843 - Frequencia de um numero
