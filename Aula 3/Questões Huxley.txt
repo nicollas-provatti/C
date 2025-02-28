@@ -1,0 +1,13 @@
+Função
+400 - Limite de Velocidade
+404 - Escola de Música
+849 - Volume da Esfera
+3161 - Distância entre dois pontos
+4714 - Q08 - Desenhe o retângulo
+
+Recursão
+354 - Sequência de inteiros pares (crescente) recursivo
+355 - Sequência de inteiros pares (decrescente) recursivo
+356 - Transformar Decimal para Binário (recursivo)
+409 - Série de Miguelito
+3679 - Professor maluco ?
