@@ -1,0 +1,6 @@
+2254 - Soma dos dígitos (função iterativa)
+3289 - Conversão de Horas
+3940 - Fábrica
+4421 - Apenas um código
+1093 - Conhecendo o cliente
+2799 - Jogo do Maior
