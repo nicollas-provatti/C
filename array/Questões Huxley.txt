@@ -1,0 +1,13 @@
+Array
+74 - Iguais a n
+616 - Identificando chás
+2132 - Listas - exibindo nota e posição
+2412 - Ambrósio Romântico
+2851 - Pares de trás para frente
+
+Matriz
+211 - Chuva
+871 - Elementos de uma matriz
+1279 - L4Q2 - Soma Divina
+2892 - Criando a matriz
+3353 - Matriz transposta
