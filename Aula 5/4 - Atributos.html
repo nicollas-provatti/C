@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atributos</title>
+</head>
+<body>
+    <a href="https://pt.wikipedia.org/wiki/JavaScript">Saiba Mais</a>
+
+    <script>
+        // página com um <a>
+
+        // getAttribute()
+        let link = document.querySelector("a");
+        console.log(link.getAttribute("href"));
+
+        // setAttribute
+        link.setAttribute("href", "#"); // sem retorno
+
+        // removeAttribute
+        link.removeAttribute("href"); // sem retorno
+
+        // hasAttribute
+        console.log(link.hasAttribute("href"));
+
+        // Exercícios parte 2: 1, 2, 3 e 4
+    </script>
+</body>
+</html>
