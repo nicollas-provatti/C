@@ -75,7 +75,7 @@ int main() {
 ### Definição de Matriz
 Uma matriz é um array **multidimensional**, geralmente usado para representar tabelas ou grades de dados. Uma matriz bidimensional, por exemplo, tem elementos organizados em **linhas** e **colunas**.
 
-![Alt text](https://userdir.luzerna.ifc.edu.br/~marcelocendron/tutoriais/linguagem_c/04/imagens/matriz.png "Array")
+![Alt text](https://hermes.dio.me/assets/articles/65bf11e9-0812-486e-8ff4-9a666edb8a83.png "Matriz")
 
 ---
 
