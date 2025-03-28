@@ -1,0 +1,4 @@
+244 - Contar um caracter na string
+253 - As duas strings são iguais?
+843 - Contar palavras
+4705 - Q09 - É um palíndromo?
