@@ -1,0 +1,44 @@
+Ana Souza
+Corrente
+12345
+3250.00
+Bruno Lima
+Poupanca
+234567
+5400.00
+Carlos Mendes
+Corrente
+34567
+1250.00
+Daniela Alves
+Salario
+45678
+2300.00
+Eduardo Santos
+Corrente
+56789
+6700.00
+Fernanda Ribeiro
+Poupanca
+67890
+9150.00
+Gustavo Ferreira
+Corrente
+78901
+500.00
+Helena Martins
+Salario
+89012
+3980.00
+Igor Costa
+Corrente
+90123
+4120.00
+Juliana Barbosa
+Poupanca
+1234
+7800.00
+Nicollas Provatti
+Corrente
+1999
+0.00
